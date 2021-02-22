@@ -1,1 +1,1 @@
-# Practica-2-Ejercicio-7---Objetos-Prog-I
+# Practica-1-Ejercicio-de-Objetos--Universidad-Prog-I
